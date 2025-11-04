@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日本體育新聞</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <style>
+        .article-card {
+            transition: transform 0.2s;
+            height: 100%;
+        }
+        .article-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .article-image {
+            height: 160px;
+            object-fit: cover;
+        }
+        /* 新增無圖片時的預設樣式 */
+        .no-image-placeholder {
+            height: 160px;
+            background-color: #e9ecef;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #6c757d;
+            font-size: 1.1rem;
+        }
+        .source-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1;
+        }
+        .description {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            height: 4.5em;
+            font-size: 0.9rem;
+        }
+        .card-title {
+            height: 3.3em;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+        @media (max-width: 768px) {
+            .col-md-3 {
+                margin-bottom: 1rem;
+            }
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container py-4">
+        <header class="pb-3 mb-4 border-bottom">
+            <div class="row align-items-center">
+                <div class="col-md-4">
+                    <h1 class="display-5 fw-bold">日本體育新聞</h1>
+                </div>
+                <div class="col-md-8">
+                    <div class="mb-4 d-flex justify-content-end gap-2">
+                        <a href="/export" class="btn btn-success">
+                            <i class="fas fa-file-export"></i> 匯出資料
+                        </a>
+                        <a href="/rescrape" class="btn btn-info text-white">
+                            <i class="fas fa-sync"></i> 回補資料
+                        </a>
+                        <button onclick="crawlArticles()" class="btn btn-primary">
+                            <i class="fas fa-sync-alt"></i> 爬取最新文章
+                        </button>
+                    </div>
+                    <form class="row g-3" method="get" action="/">
+                        <div class="col-md-5">
+                            <input type="text" 
+                                   class="form-control" 
+                                   name="keyword" 
+                                   placeholder="搜尋新聞..."
+                                   value="{{ keyword or '' }}">
+                        </div>
+                        <div class="col-md-4">
+                            <select class="form-select" name="source">
+                                <option value="">所有來源</option>
+                                {% for s in sources %}
+                                <option value="{{ s }}" {% if source == s %}selected{% endif %}>
+                                    {{ s }}
+                                </option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-md-3">
+                            <button type="submit" class="btn btn-primary w-100">搜尋</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </header>
+
+        <!-- 在搜尋表單下方加入視圖切換按鈕 -->
+        <div class="row mb-4">
+            <div class="col-12 d-flex justify-content-end">
+                <div class="btn-group" role="group">
+                    <button type="button" class="btn btn-outline-primary active" onclick="switchView('card')">
+                        <i class="fas fa-th"></i> 卡片視圖
+                    </button>
+                    <button type="button" class="btn btn-outline-primary" onclick="switchView('table')">
+                        <i class="fas fa-list"></i> 表格視圖
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        {% if keyword or source %}
+        <div class="mb-4">
+            <h5 class="text-muted">
+                搜尋結果：共 {{ total }} 筆
+                {% if keyword %}<span class="badge bg-secondary">關鍵字：{{ keyword }}</span>{% endif %}
+                {% if source %}<span class="badge bg-secondary">來源：{{ source }}</span>{% endif %}
+                <a href="/" class="btn btn-outline-secondary btn-sm ms-2">清除搜尋</a>
+            </h5>
+        </div>
+        {% endif %}
+
+        <!-- 修改後的卡片視圖，增加檢查確保文章數據完整 -->
+        <div id="cardView" class="row g-4">
+            {% for article in articles %}
+            {% if article and article.id and article.title %}
+            <div class="col-md-3">
+                <div class="card article-card h-100">
+                    {% if article.image_url %}
+                    <img src="{{ article.image_url }}" 
+                         class="card-img-top article-image" 
+                         alt="{{ article.title }}"
+                         onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\'no-image-placeholder\'>無縮圖</div>';">
+                    {% else %}
+                    <div class="no-image-placeholder">無縮圖</div>
+                    {% endif %}
+                    <span class="badge bg-primary source-badge">{{ article.source }}</span>
+                    <div class="card-body">
+                        <h5 class="card-title" style="font-size: 1.1rem;">{{ article.title }}</h5>
+                        <p class="card-text description">{{ article.description or article.content[:100] or '無內容摘要' }}...</p>
+                        <div class="mt-auto">
+                            <small class="text-muted d-block mb-2">
+                                {% if article.published_at %}{{ article.published_at.strftime('%Y-%m-%d %H:%M') }}{% else %}未知日期{% endif %}
+                                {% if article.reporter %}<br>記者: {{ article.reporter }}{% endif %}
+                                {% if article.category %}<br>{{ article.category }}{% endif %}
+                            </small>
+                            <a href="/article/{{ article.id }}" class="btn btn-outline-primary btn-sm w-100">閱讀全文</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+
+        <!-- 表格視圖也增加檢查 -->
+        <div id="tableView" class="row g-4" style="display: none;">
+            <div class="col-12">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>標題</th>
+                                <th>來源</th>
+                                <th>分類</th>
+                                <th>發布時間</th>
+                                <th>記者</th>
+                                <th>操作</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for article in articles %}
+                            {% if article and article.id and article.title %}
+                            <tr>
+                                <td>{{ article.title }}</td>
+                                <td><span class="badge bg-primary">{{ article.source }}</span></td>
+                                <td>{{ article.category or '-' }}</td>
+                                <td>{% if article.published_at %}{{ article.published_at.strftime('%Y-%m-%d %H:%M') }}{% else %}未知日期{% endif %}</td>
+                                <td>{{ article.reporter or '-' }}</td>
+                                <td>
+                                    <a href="/article/{{ article.id }}" class="btn btn-outline-primary btn-sm">閱讀全文</a>
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        {% if total_pages > 1 %}
+        <nav aria-label="Page navigation" class="mt-4">
+            <ul class="pagination justify-content-center">
+                <!-- 第一頁 -->
+                <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                    <a class="page-link" href="/?page=1{% for key, value in params.items() %}&{{ key }}={{ value }}{% endfor %}" aria-label="First">
+                        <span aria-hidden="true">第一頁</span>
+                    </a>
+                </li>
+                
+                <!-- 上一頁 -->
+                <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                    <a class="page-link" href="/?page={{ current_page-1 }}{% for key, value in params.items() %}&{{ key }}={{ value }}{% endfor %}" aria-label="Previous">
+                        <span aria-hidden="true">上一頁</span>
+                    </a>
+                </li>
+                
+                <!-- 頁碼 -->
+                {% set start_page = [1, current_page-2] | max %}
+                {% set end_page = [total_pages+1, current_page+3] | min %}
+                {% for page in range(start_page, end_page) %}
+                <li class="page-item {% if page == current_page %}active{% endif %}">
+                    <a class="page-link" href="/?page={{ page }}{% for key, value in params.items() %}&{{ key }}={{ value }}{% endfor %}">{{ page }}</a>
+                </li>
+                {% endfor %}
+                
+                <!-- 下一頁 -->
+                <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                    <a class="page-link" href="/?page={{ current_page+1 }}{% for key, value in params.items() %}&{{ key }}={{ value }}{% endfor %}" aria-label="Next">
+                        <span aria-hidden="true">下一頁</span>
+                    </a>
+                </li>
+                
+                <!-- 最後一頁 -->
+                <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                    <a class="page-link" href="/?page={{ total_pages }}{% for key, value in params.items() %}&{{ key }}={{ value }}{% endfor %}" aria-label="Last">
+                        <span aria-hidden="true">最後一頁</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        {% endif %}
+
+        <footer class="text-center text-muted mt-4">
+            <small>共 {{ total }} 篇文章</small>
+        </footer>
+
+        {% if message == 'crawl_started' %}
+        <div class="alert alert-success alert-dismissible fade show mt-3" role="alert">
+            爬蟲已在背景開始執行。
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        {% endif %}
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+    async function crawlArticles() {
+        try {
+            // 顯示提示訊息
+            const alertHtml = `
+                <div class="alert alert-info alert-dismissible fade show mt-3" role="alert">
+                    爬蟲已在背景開始執行，您可以繼續瀏覽網站。
+                    幾分鐘後重新整理頁面即可看到最新文章。
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            `;
+            document.querySelector('.container').insertAdjacentHTML('beforeend', alertHtml);
+            
+            // 取得今天日期
+            const today = new Date().toISOString().split('T')[0];
+            
+            // 呼叫爬蟲 API
+            const response = await fetch(`/api/crawl?start_date=${today}&end_date=${today}`, {
+                method: 'POST'
+            });
+            
+            const data = await response.json();
+            
+            // 不自動重新載入頁面，讓使用者可以繼續瀏覽
+            
+        } catch (error) {
+            console.error('Error:', error);
+            const errorHtml = `
+                <div class="alert alert-danger alert-dismissible fade show mt-3" role="alert">
+                    爬蟲啟動失敗：${error.message}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div>
+            `;
+            document.querySelector('.container').insertAdjacentHTML('beforeend', errorHtml);
+        }
+    }
+
+    function switchView(viewType) {
+        const cardView = document.getElementById('cardView');
+        const tableView = document.getElementById('tableView');
+        const buttons = document.querySelectorAll('.btn-group .btn');
+        
+        if (viewType === 'card') {
+            cardView.style.display = 'flex';
+            tableView.style.display = 'none';
+        } else {
+            cardView.style.display = 'none';
+            tableView.style.display = 'block';
+        }
+        
+        // 更新按鈕狀態
+        buttons.forEach(btn => {
+            btn.classList.remove('active');
+            if (btn.textContent.toLowerCase().includes(viewType)) {
+                btn.classList.add('active');
+            }
+        });
+        
+        // 儲存使用者偏好
+        localStorage.setItem('preferredView', viewType);
+    }
+
+    // 頁面載入時檢查使用者偏好
+    document.addEventListener('DOMContentLoaded', function() {
+        const preferredView = localStorage.getItem('preferredView') || 'card';
+        switchView(preferredView);
+    });
+    </script>
+</body>
+</html>
