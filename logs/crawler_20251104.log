@@ -2842,3 +2842,728 @@
 {"timestamp": "2025-11-04T08:51:53.293951", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 八村、今季最多28得点　レーカーズ4連勝―NBA... (161 字)"}
 {"timestamp": "2025-11-04T08:51:53.294085", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 2 篇文章"}
 {"timestamp": "2025-11-04T08:51:54.669951", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/4ea308ce34089ff594ded6351642acd074f0491c"}
+{"timestamp": "2025-11-04T08:52:00.000628", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:00.006460", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 【ＮＢＡ】八村塁が２８得点大爆発で故障禍チームの救世主に　米... (516 字)"}
+{"timestamp": "2025-11-04T08:52:00.006596", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 3 篇文章"}
+{"timestamp": "2025-11-04T08:52:01.415656", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/5c1217d4118122c329604128728157540218b588"}
+{"timestamp": "2025-11-04T08:52:08.132644", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:08.139455", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: ＮＢＡ＝レーカーズが4連勝、八村は28得点で勝利に貢献... (588 字)"}
+{"timestamp": "2025-11-04T08:52:08.139591", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 4 篇文章"}
+{"timestamp": "2025-11-04T08:52:09.512135", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/7e42f6ecceb7432e4d711bb7611adb1dbaefaece"}
+{"timestamp": "2025-11-04T08:52:16.363066", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:16.368954", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: レイカーズ八村塁　今季最多28得点で今季初4連勝に貢献！ネッ... (595 字)"}
+{"timestamp": "2025-11-04T08:52:16.369079", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 5 篇文章"}
+{"timestamp": "2025-11-04T08:52:17.982992", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/9557d459bfccd575163bcfc08944fbef7a682231"}
+{"timestamp": "2025-11-04T08:52:23.471493", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:23.478766", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: NBA八村、今季最多28得点　レーカーズ4連勝... (233 字)"}
+{"timestamp": "2025-11-04T08:52:23.478925", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 6 篇文章"}
+{"timestamp": "2025-11-04T08:52:25.110489", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/33929265b891347a93b5165e8d0284b7060e500d"}
+{"timestamp": "2025-11-04T08:52:30.139235", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:30.145320", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 【NBA】主力不在のレイカーズが４連勝。八村塁は高確率でショ... (1247 字)"}
+{"timestamp": "2025-11-04T08:52:30.145430", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 7 篇文章"}
+{"timestamp": "2025-11-04T08:52:32.058677", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/645a02117a1dd04a1438fe7c710eab3682c13e25"}
+{"timestamp": "2025-11-04T08:52:37.975489", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:37.981419", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 八村塁、今季最多28得点の活躍…レイカーズはドンチッチとリー... (894 字)"}
+{"timestamp": "2025-11-04T08:52:37.981536", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 8 篇文章"}
+{"timestamp": "2025-11-04T08:52:39.148622", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/224de11db53ddfe42fc6741165cbf3b270f485d5"}
+{"timestamp": "2025-11-04T08:52:44.438696", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:44.444718", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 八村塁　今季最多28得点の大暴れ！「攻撃的になろうと思ってた... (1332 字)"}
+{"timestamp": "2025-11-04T08:52:44.444835", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 9 篇文章"}
+{"timestamp": "2025-11-04T08:52:45.614939", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/e031f6fba1c4af972fbb1258081b5ca105d1713d"}
+{"timestamp": "2025-11-04T08:52:52.122817", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:52.128238", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 八村塁　チーム最多の前半18得点！豪快ダンク＆2本の3P決め... (943 字)"}
+{"timestamp": "2025-11-04T08:52:52.128476", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 10 篇文章"}
+{"timestamp": "2025-11-04T08:52:53.481702", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/fc4ad253d09ea65f5be262c63025fb45373a5dc8"}
+{"timestamp": "2025-11-04T08:52:59.784830", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T08:52:59.790665", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 久保建英、河村勇輝、佐々木朗希、髙橋藍ほか、2001年生まれ... (1586 字)"}
+{"timestamp": "2025-11-04T08:52:59.790845", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 11 篇文章"}
+{"timestamp": "2025-11-04T08:53:01.623668", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "バスケ代表 爬蟲完成，共爬取 11 篇文章"}
+{"timestamp": "2025-11-04T08:53:01.694872", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "basket_japan crawler cleanup completed"}
+{"timestamp": "2025-11-04T08:53:01.695032", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 11 篇文章"}
+{"timestamp": "2025-11-04T08:53:01.705163", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 11 articles"}
+{"timestamp": "2025-11-04T08:53:01.705278", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 11 篇"}
+{"timestamp": "2025-11-04T08:53:01.705355", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "✅ basket_japan 爬蟲完成，共爬取 11 篇文章"}
+{"timestamp": "2025-11-04T08:53:01.705414", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "開始爬取 youth_basket 文章..."}
+{"timestamp": "2025-11-04T08:53:01.705703", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 youth_basket 文章 (日期範圍: 2025-11-04 ~ 2025-11-04)..."}
+{"timestamp": "2025-11-04T08:53:01.705839", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T08:53:01.705948", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T08:53:01.706083", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T08:53:01.840924", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "youth_basket crawler driver setup completed"}
+{"timestamp": "2025-11-04T08:53:01.841039", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 学生バスケ 新聞 (日期範圍: 2025-11-04 ~ 2025-11-04)"}
+{"timestamp": "2025-11-04T08:53:01.841108", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 学生バスケ 列表頁: https://sports.yahoo.co.jp/basket/youth/"}
+{"timestamp": "2025-11-04T08:53:10.742611", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T08:53:10.742849", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:10.745219", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T08:53:10.745426", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:10.745562", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:10.745890", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T08:53:10.802865", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "youth_basket crawler cleanup completed"}
+{"timestamp": "2025-11-04T08:53:10.803012", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:10.803327", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T08:53:10.803587", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "✅ youth_basket 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:10.803729", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "開始爬取 other 文章..."}
+{"timestamp": "2025-11-04T08:53:10.803951", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 other 文章 (日期範圍: 2025-11-04 ~ 2025-11-04)..."}
+{"timestamp": "2025-11-04T08:53:10.804104", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T08:53:10.804193", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T08:53:10.804279", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T08:53:10.953072", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "other crawler driver setup completed"}
+{"timestamp": "2025-11-04T08:53:10.953207", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 他競技 新聞 (日期範圍: 2025-11-04 ~ 2025-11-04)"}
+{"timestamp": "2025-11-04T08:53:10.953293", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 他競技 列表頁: https://sports.yahoo.co.jp/other/"}
+{"timestamp": "2025-11-04T08:53:18.361116", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T08:53:18.361327", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:18.363316", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T08:53:18.363446", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:18.363569", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:18.363806", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T08:53:18.421824", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "other crawler cleanup completed"}
+{"timestamp": "2025-11-04T08:53:18.421968", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:18.422198", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T08:53:18.422324", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "✅ other 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:18.422449", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "開始爬取 dosports 文章..."}
+{"timestamp": "2025-11-04T08:53:18.422624", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 dosports 文章 (日期範圍: 2025-11-04 ~ 2025-11-04)..."}
+{"timestamp": "2025-11-04T08:53:18.422767", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T08:53:18.422871", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T08:53:18.422987", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T08:53:18.561882", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "dosports crawler driver setup completed"}
+{"timestamp": "2025-11-04T08:53:18.562015", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Doスポーツ 新聞 (日期範圍: 2025-11-04 ~ 2025-11-04)"}
+{"timestamp": "2025-11-04T08:53:18.562088", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Doスポーツ 列表頁: https://sports.yahoo.co.jp/dosports/"}
+{"timestamp": "2025-11-04T08:53:27.231809", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:27.233781", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T08:53:27.233907", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:27.234067", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:27.234254", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T08:53:27.290812", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "dosports crawler cleanup completed"}
+{"timestamp": "2025-11-04T08:53:27.290948", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:27.291087", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T08:53:27.291235", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "✅ dosports 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T08:53:27.291557", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "爬蟲執行完成：成功 31 個，失敗 0 個，共爬取 356 篇文章"}
+{"timestamp": "2025-11-04T10:02:47.900934", "level": "\u001b[32mINFO    \u001b[0m", "logger": "root", "message": "日誌系統已初始化"}
+{"timestamp": "2025-11-04T10:02:47.915334", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "並行爬取 31 個來源..."}
+{"timestamp": "2025-11-04T10:02:47.915664", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "開始爬取 npb 文章..."}
+{"timestamp": "2025-11-04T10:02:47.915937", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 npb 文章 (日期範圍: 2025-11-04 ~ 2025-11-04)..."}
+{"timestamp": "2025-11-04T10:02:47.916118", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:02:47.916291", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:02:47.916375", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:02:48.096878", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "npb crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:02:48.097147", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 NPB 新聞 (日期範圍: 2025-11-04 ~ 2025-11-04)"}
+{"timestamp": "2025-11-04T10:02:48.097247", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 NPB 列表頁: https://baseball.yahoo.co.jp/npb/"}
+{"timestamp": "2025-11-04T10:02:55.015162", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:02:55.018910", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:02:55.019024", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:02:55.019155", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://sports.yahoo.co.jp/column/detail/2025102500001-spnavi"}
+{"timestamp": "2025-11-04T10:02:59.642575", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 現在JavaScriptが無効です。... (123 字)"}
+{"timestamp": "2025-11-04T10:02:59.642733", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:03:00.870363", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/3df1de27202fd2f3cd93269840aced76c1203ab1"}
+{"timestamp": "2025-11-04T10:03:06.616922", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:03:06.621412", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 【巨人】2軍は石井琢朗監督（55）、田口昌徳バッテリーコーチ... (1340 字)"}
+{"timestamp": "2025-11-04T10:03:06.621540", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 2 篇文章"}
+{"timestamp": "2025-11-04T10:03:07.792994", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://sports.yahoo.co.jp/column/detail/2025110400091-spnaviow"}
+{"timestamp": "2025-11-04T10:03:13.003429", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 現在JavaScriptが無効です。... (56 字)"}
+{"timestamp": "2025-11-04T10:03:13.003574", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 3 篇文章"}
+{"timestamp": "2025-11-04T10:03:14.474406", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/e4b34e0cc3c994a5ac9b3f6680992a4255aa72e6"}
+{"timestamp": "2025-11-04T10:03:20.106782", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:03:20.111875", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: DeNA・牧秀悟、最高の状態で代表へ　侍・井端監督の訪問に笑... (633 字)"}
+{"timestamp": "2025-11-04T10:03:20.112115", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 4 篇文章"}
+{"timestamp": "2025-11-04T10:03:22.093421", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/88d2b0d41920126223985a42950df6839003c5e8"}
+{"timestamp": "2025-11-04T10:03:27.036022", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:03:27.040839", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: NPBが「プロ野球川柳」を募集　今季印象に残った試合などを「... (562 字)"}
+{"timestamp": "2025-11-04T10:03:27.040980", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 5 篇文章"}
+{"timestamp": "2025-11-04T10:03:29.028358", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://sports.yahoo.co.jp/column/detail/2025102500001-spnavi"}
+{"timestamp": "2025-11-04T10:03:34.300926", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 現在JavaScriptが無効です。... (123 字)"}
+{"timestamp": "2025-11-04T10:03:34.301274", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 6 篇文章"}
+{"timestamp": "2025-11-04T10:03:35.521382", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/3cf81169940442050bd732872fb5d42ad6e9f468"}
+{"timestamp": "2025-11-04T10:03:40.565048", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:03:40.570116", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: ヤクルト・池山新監督、エース候補の奥川恭伸に『2桁勝利』のノ... (247 字)"}
+{"timestamp": "2025-11-04T10:03:40.570262", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 7 篇文章"}
+{"timestamp": "2025-11-04T10:03:42.300119", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://sports.yahoo.co.jp/column/detail/2025110100075-spnaviow"}
+{"timestamp": "2025-11-04T10:03:47.487595", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 現在JavaScriptが無効です。... (33 字)"}
+{"timestamp": "2025-11-04T10:03:47.488567", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 8 篇文章"}
+{"timestamp": "2025-11-04T10:03:48.559187", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/1a083c612f414a27634c6aeda16d2cb8e14be349"}
+{"timestamp": "2025-11-04T10:03:52.804822", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:03:52.809283", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 阪神・藤川監督が秋季Cに合流　救援右腕育成へ早速指導... (373 字)"}
+{"timestamp": "2025-11-04T10:03:52.809484", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 9 篇文章"}
+{"timestamp": "2025-11-04T10:03:54.750202", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/65ff5de3dec5160396112f60cc34ee2d8a48fccd"}
+{"timestamp": "2025-11-04T10:03:59.318911", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:03:59.323874", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 選抜21世紀枠、千葉推薦校に国分を初選出　文武両道評価... (447 字)"}
+{"timestamp": "2025-11-04T10:03:59.324001", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 10 篇文章"}
+{"timestamp": "2025-11-04T10:04:01.146813", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/2a7cf2702fec0bb7abbd179baea58d9b800b398a"}
+{"timestamp": "2025-11-04T10:04:01.429513", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "排程器已關閉"}
+{"timestamp": "2025-11-04T10:04:01.429938", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Scheduler has been shut down"}
+{"timestamp": "2025-11-04T10:04:02.206284", "level": "\u001b[32mINFO    \u001b[0m", "logger": "root", "message": "日誌系統已初始化"}
+{"timestamp": "2025-11-04T10:04:02.225140", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "資料庫連接成功！"}
+{"timestamp": "2025-11-04T10:04:02.225524", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:04:02.225885", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:04:02.226173", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:04:02.226408", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:04:02.226868", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:04:02.227117", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:04:02.227272", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:04:02.227498", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:04:02.227606", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Scheduler started"}
+{"timestamp": "2025-11-04T10:04:02.227784", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "排程器已啟動: 2025-11-04 18:04:02.227740+08:00"}
+{"timestamp": "2025-11-04T10:04:02.227882", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "已設定的排程任務:"}
+{"timestamp": "2025-11-04T10:04:02.228025", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_8pm: 下次執行時間 2025-11-04 20:00:00+08:00"}
+{"timestamp": "2025-11-04T10:04:02.228118", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_8am: 下次執行時間 2025-11-05 08:00:00+08:00"}
+{"timestamp": "2025-11-04T10:04:02.228171", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_12pm: 下次執行時間 2025-11-05 12:00:00+08:00"}
+{"timestamp": "2025-11-04T10:04:02.228261", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_4pm: 下次執行時間 2025-11-05 16:00:00+08:00"}
+{"timestamp": "2025-11-04T10:06:09.781395", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "排程器已關閉"}
+{"timestamp": "2025-11-04T10:06:09.781632", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Scheduler has been shut down"}
+{"timestamp": "2025-11-04T10:06:10.583660", "level": "\u001b[32mINFO    \u001b[0m", "logger": "root", "message": "日誌系統已初始化"}
+{"timestamp": "2025-11-04T10:06:10.605774", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "資料庫連接成功！"}
+{"timestamp": "2025-11-04T10:06:10.606312", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:06:10.606548", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:06:10.606792", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:06:10.606991", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}
+{"timestamp": "2025-11-04T10:06:10.607408", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:06:10.607720", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:06:10.607985", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:06:10.608128", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Added job \"crawl_today\" to job store \"default\""}
+{"timestamp": "2025-11-04T10:06:10.608312", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Scheduler started"}
+{"timestamp": "2025-11-04T10:06:10.608664", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "排程器已啟動: 2025-11-04 18:06:10.608581+08:00"}
+{"timestamp": "2025-11-04T10:06:10.608846", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "已設定的排程任務:"}
+{"timestamp": "2025-11-04T10:06:10.608988", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_8pm: 下次執行時間 2025-11-04 20:00:00+08:00"}
+{"timestamp": "2025-11-04T10:06:10.609155", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_8am: 下次執行時間 2025-11-05 08:00:00+08:00"}
+{"timestamp": "2025-11-04T10:06:10.609318", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_12pm: 下次執行時間 2025-11-05 12:00:00+08:00"}
+{"timestamp": "2025-11-04T10:06:10.609443", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_4pm: 下次執行時間 2025-11-05 16:00:00+08:00"}
+{"timestamp": "2025-11-04T10:10:35.071025", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 npb 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:10:35.071672", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:10:35.071945", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:10:35.072272", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:10:35.235291", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "npb crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:10:35.235610", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 NPB 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:10:35.235670", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 NPB 列表頁: https://baseball.yahoo.co.jp/npb/"}
+{"timestamp": "2025-11-04T10:10:43.252671", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:10:43.257151", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:10:43.257337", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:10:43.257412", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://sports.yahoo.co.jp/column/detail/2025102500001-spnavi"}
+{"timestamp": "2025-11-04T10:10:49.637148", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 現在JavaScriptが無効です。... (123 字)"}
+{"timestamp": "2025-11-04T10:10:49.637302", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:10:51.626102", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "NPB 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:10:51.685357", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "npb crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:10:51.685490", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:10:51.689389", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:10:51.689504", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:10:51.689705", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 mlb 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:10:51.689908", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:10:51.690002", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:10:51.690172", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:10:51.824939", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "mlb crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:10:51.825198", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 MLB 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:10:51.825387", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 MLB 列表頁: https://baseball.yahoo.co.jp/mlb/"}
+{"timestamp": "2025-11-04T10:10:58.449173", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:10:58.452602", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:10:58.452711", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:10:58.452912", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/743d5e707bd6a8e40eea218377211b37d47302f9"}
+{"timestamp": "2025-11-04T10:11:05.714817", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:11:05.719776", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 【ＭＬＢ】ドジャース優勝は他球団にとって「最悪の瞬間」も山本... (911 字)"}
+{"timestamp": "2025-11-04T10:11:05.719890", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:06.990191", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "MLB 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:07.050103", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "mlb crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:11:07.050261", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:07.053519", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:11:07.053685", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 1 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:11:07.053879", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 hsb 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:11:07.054041", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:11:07.054197", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:11:07.054306", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:11:07.184415", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "hsb crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:11:07.184513", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 高校野球 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:11:07.184604", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 高校野球 列表頁: https://baseball.yahoo.co.jp/hsb/"}
+{"timestamp": "2025-11-04T10:11:17.693012", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:17.696904", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:11:17.697033", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:11:17.697207", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/2de787b8aef62489c0db812d8e7ba95dcdae3d57"}
+{"timestamp": "2025-11-04T10:11:22.822744", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:11:22.829460", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 甲子園V右腕ら20人、12月に台湾遠征　高野連が日台国際親善... (553 字)"}
+{"timestamp": "2025-11-04T10:11:22.829682", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:24.502754", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "高校野球 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:24.561450", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "hsb crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:11:24.561656", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:24.565262", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:11:24.565474", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:11:24.565724", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 bbl 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:11:24.565847", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:11:24.565963", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:11:24.566122", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:11:24.733229", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "bbl crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:11:24.733423", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 大學野球 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:11:24.733576", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 大學野球 列表頁: https://baseball.yahoo.co.jp/bbl/"}
+{"timestamp": "2025-11-04T10:11:32.106483", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:11:32.106676", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:32.107327", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T10:11:32.107460", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:32.107704", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:32.107814", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T10:11:32.166415", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "bbl crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:11:32.166572", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:32.166715", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:11:32.166967", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 ipbl 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:11:32.167149", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:11:32.167278", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:11:32.167400", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:11:32.300574", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ipbl crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:11:32.300692", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 独立リーグ 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:11:32.300754", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 独立リーグ 列表頁: https://baseball.yahoo.co.jp/ipbl/"}
+{"timestamp": "2025-11-04T10:11:41.040476", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:11:41.040626", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:41.043758", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:11:41.043882", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:11:41.044005", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/2787a1c135929bc1c6e1bdaa3769e2baf9ac6705"}
+{"timestamp": "2025-11-04T10:11:47.149558", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:11:47.155792", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 【阪神】育成２位の兵庫・山崎照英に指名あいさつ「足を…」24... (584 字)"}
+{"timestamp": "2025-11-04T10:11:47.155950", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:48.706712", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "独立リーグ 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:48.765701", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ipbl crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:11:48.765933", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:11:48.768984", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:11:48.769181", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 1 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:11:48.769430", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 amateur 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:11:48.769669", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:11:48.769770", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:11:48.769886", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:11:48.906154", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "amateur crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:11:48.906293", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 業餘棒球 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:11:48.906361", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 業餘棒球 列表頁: https://baseball.yahoo.co.jp/amateur/"}
+{"timestamp": "2025-11-04T10:11:57.035594", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:11:57.035741", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:57.036257", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T10:11:57.036363", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:57.036434", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:57.036604", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T10:11:57.091644", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "amateur crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:11:57.091788", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:11:57.091932", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:11:57.092248", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 baseball_japan 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:11:57.092407", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:11:57.092638", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:11:57.092755", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:11:57.241298", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "baseball_japan crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:11:57.241457", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 侍ジャパン 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:11:57.241523", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 侍ジャパン 列表頁: https://baseball.yahoo.co.jp/japan/"}
+{"timestamp": "2025-11-04T10:12:05.942636", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:05.945526", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:12:05.945647", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:12:05.945787", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/a587ed5d33638c5a52d70a4c97cf9ccfef580144"}
+{"timestamp": "2025-11-04T10:12:12.309520", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:12:12.314462", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 井端監督、牧に期待　韓国戦へ、練習視察―侍ジャパン... (411 字)"}
+{"timestamp": "2025-11-04T10:12:12.314584", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:14.084612", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "侍ジャパン 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:14.146758", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "baseball_japan crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:12:14.146914", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:14.149794", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:12:14.149934", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:12:14.150124", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 jleague 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:12:14.150230", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:12:14.150338", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:12:14.150533", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:12:14.287184", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "jleague crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:12:14.287353", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Jリーグ 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:12:14.287447", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Jリーグ 列表頁: https://soccer.yahoo.co.jp/jleague/"}
+{"timestamp": "2025-11-04T10:12:21.949749", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:12:21.949924", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:12:21.953006", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:12:21.953132", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:12:21.953394", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "Jリーグ 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T10:12:22.010562", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "jleague crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:12:22.010732", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:12:22.010951", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:12:22.011166", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 ws 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:12:22.011266", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:12:22.011441", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:12:22.011602", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:12:22.156390", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ws crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:12:22.156491", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 海外サッカー 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:12:22.156546", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 海外サッカー 列表頁: https://soccer.yahoo.co.jp/ws/"}
+{"timestamp": "2025-11-04T10:12:30.051269", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:30.056108", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:12:30.056213", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:12:30.056315", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/59535a374d457d047a0377fba2d9412f78abad77"}
+{"timestamp": "2025-11-04T10:12:37.263392", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:12:37.268569", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: レアル、来夏も実力者をフリーで獲得か。争奪戦必至のパレス主将... (679 字)"}
+{"timestamp": "2025-11-04T10:12:37.268676", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:38.784490", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "海外サッカー 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:38.841915", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ws crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:12:38.842076", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:38.844578", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:12:38.844701", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:12:38.844892", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 soccer_japan 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:12:38.845006", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:12:38.845202", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:12:38.845318", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:12:38.994114", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "soccer_japan crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:12:38.994222", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 サッカー代表 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:12:38.994316", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 サッカー代表 列表頁: https://soccer.yahoo.co.jp/japan/"}
+{"timestamp": "2025-11-04T10:12:45.840377", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:45.844122", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:12:45.844264", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:12:45.844484", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/94fad2310f45b524d12536ac1ae5ba43af70b2dd"}
+{"timestamp": "2025-11-04T10:12:51.243888", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:12:51.249049", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: U-18日本代表の最新メンバー20人が発表　Jトップ内定者が... (700 字)"}
+{"timestamp": "2025-11-04T10:12:51.249206", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:52.713900", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "サッカー代表 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:52.772842", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "soccer_japan crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:12:52.772952", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:12:52.775473", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:12:52.775600", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:12:52.775799", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 youth_soccer 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:12:52.775938", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:12:52.776044", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:12:52.776130", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:12:52.911164", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "youth_soccer crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:12:52.911298", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 高校年代 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:12:52.911370", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 高校年代 列表頁: https://soccer.yahoo.co.jp/youth/"}
+{"timestamp": "2025-11-04T10:13:01.290239", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:01.293710", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:13:01.293859", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:13:01.293959", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/347b98a039b3a2b351c9c5a7b53b7914bda3da45"}
+{"timestamp": "2025-11-04T10:13:09.045271", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:13:09.050753", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: [選手権]前後半に3発、計6発ゴールラッシュの東山が決勝進出... (1743 字)"}
+{"timestamp": "2025-11-04T10:13:09.050871", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:10.560042", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "高校年代 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:10.616858", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "youth_soccer crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:13:10.616993", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:10.619344", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:13:10.619465", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:13:10.619637", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 keiba 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:13:10.619752", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:13:10.619859", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:13:10.619935", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:13:10.759345", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "keiba crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:13:10.759443", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 競馬 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:13:10.759489", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 競馬 列表頁: https://sports.yahoo.co.jp/keiba/"}
+{"timestamp": "2025-11-04T10:13:19.192642", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:19.196634", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:13:19.196771", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:13:19.196881", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/c681d45388b5392c8e9fc6d82c03bb1d66323144"}
+{"timestamp": "2025-11-04T10:13:24.907264", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:13:24.913752", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 最高落札額は９・３億円！「ケンタッキーダービー最有力候補」の... (409 字)"}
+{"timestamp": "2025-11-04T10:13:24.913881", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:25.920886", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "競馬 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:25.978050", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "keiba crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:13:25.978189", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:25.980628", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:13:25.980747", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:13:25.980951", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 boatrace 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:13:25.981069", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:13:25.981148", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:13:25.981254", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:13:26.131371", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "boatrace crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:13:26.131521", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 ボートレース 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:13:26.131599", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 ボートレース 列表頁: https://sports.yahoo.co.jp/boatrace/"}
+{"timestamp": "2025-11-04T10:13:34.571079", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:13:34.571301", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:13:34.573875", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T10:13:34.573975", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:13:34.574081", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:13:34.574212", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T10:13:34.635007", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "boatrace crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:13:34.635147", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:13:34.635279", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:13:34.635482", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 sumo 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:13:34.635582", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:13:34.635636", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:13:34.635683", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:13:34.778815", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "sumo crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:13:34.778952", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 大相撲 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:13:34.779122", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 大相撲 列表頁: https://sports.yahoo.co.jp/sumo/"}
+{"timestamp": "2025-11-04T10:13:41.835603", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:41.839082", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:13:41.839189", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:13:41.839270", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/82db6e21ffe438a1cea7f501a950423046904486"}
+{"timestamp": "2025-11-04T10:13:49.291227", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:13:49.297183", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 元大関で十両・朝乃山、出稽古の豊昇龍に２勝８敗「横綱と肌を合... (562 字)"}
+{"timestamp": "2025-11-04T10:13:49.297299", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:50.990248", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "大相撲 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:51.050259", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "sumo crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:13:51.050461", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:13:51.055882", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:13:51.056022", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:13:51.056237", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 figureskate 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:13:51.056379", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:13:51.056615", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:13:51.056722", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:13:51.199336", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "figureskate crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:13:51.199441", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 フィギュア 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:13:51.199505", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 フィギュア 列表頁: https://sports.yahoo.co.jp/figureskate/"}
+{"timestamp": "2025-11-04T10:14:00.127118", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:00.131029", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:14:00.131136", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:14:00.131277", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/8e72d9fe8735d0cd1b2305746da5ec1fa280df42"}
+{"timestamp": "2025-11-04T10:14:07.606135", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:14:07.612043", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 紀平梨花23歳が打ち明けた“かつての自己嫌悪”「すごく辛かっ... (1120 字)"}
+{"timestamp": "2025-11-04T10:14:07.612141", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:09.590414", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "フィギュア 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:09.648363", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "figureskate crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:14:09.648515", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:09.650710", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:14:09.650819", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:14:09.651074", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 curling 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:14:09.651158", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:14:09.651241", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:14:09.651442", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:14:09.800210", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "curling crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:14:09.800358", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 カーリング 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:14:09.800434", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 カーリング 列表頁: https://sports.yahoo.co.jp/curling/"}
+{"timestamp": "2025-11-04T10:14:18.916469", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:14:18.916616", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:14:18.919789", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:14:18.919899", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:14:18.920093", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "カーリング 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T10:14:18.980375", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "curling crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:14:18.980527", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:14:18.980663", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:14:18.980934", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 fight 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:14:18.981054", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:14:18.981210", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:14:18.981397", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:14:19.129112", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "fight crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:14:19.129208", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 格闘技 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:14:19.129260", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 格闘技 列表頁: https://sports.yahoo.co.jp/fight/"}
+{"timestamp": "2025-11-04T10:14:28.785334", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:28.788904", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:14:28.789028", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:14:28.789159", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/b5774ef68694c84a8fef81d8c6a698ec287eaf33"}
+{"timestamp": "2025-11-04T10:14:35.299965", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:14:35.308184", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 金メダル持参のウルフにEVIL「この売名野郎が。おまえは柔道... (1087 字)"}
+{"timestamp": "2025-11-04T10:14:35.308319", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:36.589144", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "格闘技 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:36.646367", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "fight crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:14:36.646482", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:36.651284", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:14:36.651377", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:14:36.651500", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 golf 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:14:36.651576", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:14:36.651766", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:14:36.651873", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:14:36.789510", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "golf crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:14:36.789627", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 ゴルフ 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:14:36.789720", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 ゴルフ 列表頁: https://sports.yahoo.co.jp/golf/"}
+{"timestamp": "2025-11-04T10:14:45.393494", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:45.396977", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:14:45.397219", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:14:45.397415", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/a97bbdaefb8bf544536f3d6f3057051746d5e506"}
+{"timestamp": "2025-11-04T10:14:50.911938", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:14:50.919838", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 山下美夢有はミンジー・リー、佐久間朱莉と同組　TOTOジャパ... (379 字)"}
+{"timestamp": "2025-11-04T10:14:50.919957", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:52.795795", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "ゴルフ 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:52.854440", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "golf crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:14:52.854583", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:14:52.857224", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:14:52.857324", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:14:52.857507", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 tennis 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:14:52.857625", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:14:52.857819", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:14:52.857945", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:14:52.993880", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "tennis crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:14:52.993988", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 テニス 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:14:52.994120", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 テニス 列表頁: https://sports.yahoo.co.jp/tennis/"}
+{"timestamp": "2025-11-04T10:15:01.879031", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:01.882361", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:01.882466", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:15:01.882589", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/4f8370037c12d67ab68e9479ed0054ee05e895ed"}
+{"timestamp": "2025-11-04T10:15:07.671546", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:15:07.677666", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 内山靖崇 19歳に快勝し初戦突破、ストレート勝ちで3年連続1... (511 字)"}
+{"timestamp": "2025-11-04T10:15:07.677797", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:09.125440", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "テニス 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:09.182652", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "tennis crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:15:09.182787", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:09.185100", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:15:09.185270", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:15:09.185503", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 tabletennis 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:15:09.185597", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:15:09.185682", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:15:09.185794", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:15:09.308763", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "tabletennis crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:15:09.308864", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 卓球 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:15:09.308912", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 卓球 列表頁: https://sports.yahoo.co.jp/tabletennis/"}
+{"timestamp": "2025-11-04T10:15:17.136023", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:15:17.136228", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:15:17.140684", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:17.140825", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:17.141017", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "卓球 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T10:15:17.198614", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "tabletennis crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:15:17.198752", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:15:17.198886", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:15:17.199038", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 badminton 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:15:17.199162", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:15:17.199334", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:15:17.199543", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:15:17.346953", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "badminton crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:15:17.347127", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 バドミントン 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:15:17.347270", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 バドミントン 列表頁: https://sports.yahoo.co.jp/badminton/"}
+{"timestamp": "2025-11-04T10:15:25.495757", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:15:25.495927", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:15:25.499234", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:25.499383", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:25.499548", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/c243d5669c34de721a45fe5f4cf6b15936141bd3"}
+{"timestamp": "2025-11-04T10:15:31.253578", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:15:31.259222", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: シダマツの再会に感激「なんて美しい友情！」　オフ時間に食事、... (524 字)"}
+{"timestamp": "2025-11-04T10:15:31.259375", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:32.348445", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "バドミントン 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:32.406596", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "badminton crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:15:32.406788", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:32.409144", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:15:32.409272", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 1 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:15:32.409624", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 f1 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:15:32.409816", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:15:32.410047", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:15:32.410118", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:15:32.554044", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "f1 crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:15:32.554164", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 F1 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:15:32.554497", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 F1 列表頁: https://sports.yahoo.co.jp/f1/"}
+{"timestamp": "2025-11-04T10:15:39.397848", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:39.401053", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:39.401245", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:15:39.401460", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://sports.yahoo.co.jp/column/detail/2025110400001-spnavi"}
+{"timestamp": "2025-11-04T10:15:44.660885", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 現在JavaScriptが無効です。... (145 字)"}
+{"timestamp": "2025-11-04T10:15:44.661046", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:46.248770", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "F1 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:46.304746", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "f1 crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:15:46.304917", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:15:46.307290", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:15:46.307399", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:15:46.307583", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 volley 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:15:46.307730", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:15:46.307944", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:15:46.308038", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:15:46.443659", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "volley crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:15:46.443807", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 バレーボール 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:15:46.443871", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 バレーボール 列表頁: https://sports.yahoo.co.jp/volley/"}
+{"timestamp": "2025-11-04T10:15:53.520653", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:15:53.520816", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:15:53.524567", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:53.524661", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:15:53.524948", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "バレーボール 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T10:15:53.581900", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "volley crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:15:53.582018", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:15:53.582207", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:15:53.582398", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 rugby 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:15:53.582491", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:15:53.582705", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:15:53.582838", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:15:53.717076", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "rugby crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:15:53.717185", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 ラグビー 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:15:53.717239", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 ラグビー 列表頁: https://sports.yahoo.co.jp/rugby/"}
+{"timestamp": "2025-11-04T10:16:03.846199", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:16:03.846385", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:03.850187", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:03.850320", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:03.850527", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "ラグビー 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:03.908782", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "rugby crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:16:03.909068", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:03.909599", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:16:03.909828", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 athletic 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:16:03.909953", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:16:03.910107", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:16:03.910245", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:16:04.056651", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "athletic crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:16:04.056774", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 陸上 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:16:04.056831", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 陸上 列表頁: https://sports.yahoo.co.jp/athletic/"}
+{"timestamp": "2025-11-04T10:16:13.160709", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:13.164910", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:13.165066", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:16:13.165257", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/8eb7b5c4a6cfaac1dc8f94373b6bd4a94c767a0b"}
+{"timestamp": "2025-11-04T10:16:18.447780", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:16:18.453645", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 【全日本大学駅伝】佐藤圭汰復帰の駒大、過去最高タイの中大、青... (1309 字)"}
+{"timestamp": "2025-11-04T10:16:18.453776", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:20.337027", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "陸上 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:20.396700", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "athletic crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:16:20.400503", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:20.405669", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:16:20.409672", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:16:20.409980", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 bleague 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:16:20.410221", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:16:20.410342", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:16:20.410564", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:16:20.549293", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "bleague crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:16:20.549428", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Bリーグ 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:16:20.549508", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Bリーグ 列表頁: https://sports.yahoo.co.jp/basket/bleague/"}
+{"timestamp": "2025-11-04T10:16:30.091773", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:16:30.091903", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:30.095237", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:30.095354", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:30.095467", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "Bリーグ 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:30.151804", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "bleague crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:16:30.151924", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:30.152048", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:16:30.152234", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 nba 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:16:30.152328", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:16:30.152435", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:16:30.152610", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:16:30.289069", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "nba crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:16:30.289162", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 NBA 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:16:30.289215", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 NBA 列表頁: https://sports.yahoo.co.jp/basket/nba/"}
+{"timestamp": "2025-11-04T10:16:39.628807", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:39.632205", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:39.632335", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 21 篇文章"}
+{"timestamp": "2025-11-04T10:16:39.632477", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取文章: https://news.yahoo.co.jp/articles/be9bd51a0af421d64821133d7b54ac290741da33"}
+{"timestamp": "2025-11-04T10:16:46.403770", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "從 JSON 提取的內容為空"}
+{"timestamp": "2025-11-04T10:16:46.410090", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "成功爬取文章（HTML）: 八村塁「もっと攻撃的になろうと思った」今季最多28得点！「主... (801 字)"}
+{"timestamp": "2025-11-04T10:16:46.410272", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "已爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:48.188129", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "NBA 爬蟲完成，共爬取 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:48.245361", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "nba crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:16:48.245555", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 1 篇文章"}
+{"timestamp": "2025-11-04T10:16:48.247997", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.core.db_utils", "message": "Batch 1: Processed 1 articles"}
+{"timestamp": "2025-11-04T10:16:48.248154", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 1 篇"}
+{"timestamp": "2025-11-04T10:16:48.248403", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 basket_japan 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:16:48.248506", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:16:48.248729", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:16:48.248822", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:16:48.387645", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "basket_japan crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:16:48.387758", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 バスケ代表 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:16:48.387806", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 バスケ代表 列表頁: https://sports.yahoo.co.jp/basket/japan/"}
+{"timestamp": "2025-11-04T10:16:57.503559", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:16:57.503721", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:57.506925", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:57.507027", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 20 篇文章"}
+{"timestamp": "2025-11-04T10:16:57.507141", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "バスケ代表 爬蟲完成，共爬取 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:57.563769", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "basket_japan crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:16:57.563908", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:16:57.564026", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:16:57.564289", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 youth_basket 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:16:57.564483", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:16:57.564696", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:16:57.564769", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:16:57.699764", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "youth_basket crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:16:57.699915", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 学生バスケ 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:16:57.699974", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 学生バスケ 列表頁: https://sports.yahoo.co.jp/basket/youth/"}
+{"timestamp": "2025-11-04T10:17:07.483818", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:17:07.483916", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:07.485596", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T10:17:07.485655", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:07.485755", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:07.485851", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T10:17:07.544638", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "youth_basket crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:17:07.544781", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:07.544857", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:17:07.545047", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 other 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:17:07.545165", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:17:07.545291", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:17:07.545405", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:17:07.702003", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "other crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:17:07.702140", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 他競技 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:17:07.702215", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 他競技 列表頁: https://sports.yahoo.co.jp/other/"}
+{"timestamp": "2025-11-04T10:17:15.650434", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「ピックアップ」區域"}
+{"timestamp": "2025-11-04T10:17:15.650604", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:15.652352", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T10:17:15.652474", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:15.652551", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:15.652628", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T10:17:15.710113", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "other crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:17:15.710256", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:15.710357", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T10:17:15.710562", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "開始爬取 dosports 文章 (日期範圍: 2025-10-31 ~ 2025-10-31)..."}
+{"timestamp": "2025-11-04T10:17:15.710671", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Setting up Chrome driver with options: ['--headless', '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu', '--window-size=1920,1080', '--disable-extensions', '--disable-infobars', '--disable-notifications', '--disable-logging', '--disable-software-rasterizer', '--blink-settings=imagesEnabled=false', '--disable-features=site-per-process', '--disable-features=TranslateUI', '--disable-features=BlinkGenPropertyTrees']"}
+{"timestamp": "2025-11-04T10:17:15.710974", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "Chrome binary location: /usr/bin/chromium"}
+{"timestamp": "2025-11-04T10:17:15.711103", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "ChromeDriver path: /usr/bin/chromedriver"}
+{"timestamp": "2025-11-04T10:17:15.863275", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "dosports crawler driver setup completed"}
+{"timestamp": "2025-11-04T10:17:15.863387", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Doスポーツ 新聞 (日期範圍: 2025-10-31 ~ 2025-10-31)"}
+{"timestamp": "2025-11-04T10:17:15.863480", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "開始爬取 Doスポーツ 列表頁: https://sports.yahoo.co.jp/dosports/"}
+{"timestamp": "2025-11-04T10:17:24.930960", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「ピックアップ」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:24.933138", "level": "\u001b[33mWARNING \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "未找到「新着記事」區域"}
+{"timestamp": "2025-11-04T10:17:24.933249", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "「新着記事」區域找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:24.933335", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "列表頁共找到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:24.933472", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.baseball_crawler", "message": "沒有找到文章"}
+{"timestamp": "2025-11-04T10:17:24.991093", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "dosports crawler cleanup completed"}
+{"timestamp": "2025-11-04T10:17:24.991258", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
+{"timestamp": "2025-11-04T10:17:24.991387", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
