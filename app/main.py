@@ -68,7 +68,13 @@ app.mount("/static", StaticFiles(directory="app/static"), name="static")
 app.include_router(api_router, prefix=settings.API_V1_STR)
 
 # 建立排程器
-scheduler = AsyncIOScheduler(timezone=timezone('Asia/Taipei'))
+scheduler = AsyncIOScheduler(
+    timezone=timezone('Asia/Taipei'),
+    job_defaults={
+        "misfire_grace_time": 4 * 60 * 60,  # 4 小時內補跑
+        "coalesce": True
+    }
+)
 
 async def run_crawler_in_background(crawler_type: str = "all", start_date: str = None, end_date: str = None):
     """在背景執行爬蟲"""

@@ -1,4 +1,5 @@
 import logging
+import re
 from datetime import datetime, timedelta, date
 from typing import List, Callable, Any, Dict, Optional, Union
 
@@ -19,12 +20,18 @@ EXPORT_TIMEZONE = timezone("Asia/Taipei")
 
 HEADER_LABELS = {
     "category": "類別",
+    "published_at": "日期時間",
     "title": "主標",
     "description": "摘要",
     "content": "全文",
     "image_url": "圖1連結",
     "image_url_2": "圖2連結",
 }
+
+DATE_TIME_PATTERNS = [
+    re.compile(r"\s*\d{4}/\d{1,2}/\d{1,2}\([^)]*\)\s*\d{1,2}[:：]\d{2}\s*配信"),
+    re.compile(r"\s*\d{1,2}/\d{1,2}\([^)]*\)\s*\d{1,2}[:：]\d{2}\s*配信"),
+]
 
 
 def _get_credentials() -> Credentials:
@@ -49,12 +56,22 @@ def _format_datetime(value: datetime) -> str:
     return localized.strftime("%Y-%m-%d %H:%M:%S")
 
 
+def _clean_text(text: str) -> str:
+    cleaned = text
+    for pattern in DATE_TIME_PATTERNS:
+        cleaned = pattern.sub(" ", cleaned)
+    cleaned = re.sub(r"[ \t]+", " ", cleaned)
+    cleaned = re.sub(r"\n[ \t]+", "\n", cleaned)
+    cleaned = re.sub(r"(?:\r?\n){3,}", "\n\n", cleaned)
+    return cleaned.strip()
+
+
 def _format_value(value: Any) -> str:
     if value is None:
         return ""
     if isinstance(value, datetime):
         return _format_datetime(value)
-    return str(value)
+    return _clean_text(str(value))
 
 
 def _normalize_target_date(target: Optional[Union[str, date]]) -> date:

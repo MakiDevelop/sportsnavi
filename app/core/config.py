@@ -179,7 +179,7 @@ class Settings(BaseSettings):
     # Google Sheets 匯出設定
     GOOGLE_SHEET_ID: Optional[str] = None
     GOOGLE_SHEET_RANGE: str = "Source!A1"
-    GOOGLE_EXPORT_COLUMNS: str = "category,title,description,content,image_url,image_url_2"
+    GOOGLE_EXPORT_COLUMNS: str = "category,published_at,title,description,content,image_url,image_url_2"
     GOOGLE_SERVICE_ACCOUNT_FILE: Optional[str] = None
     GOOGLE_SERVICE_ACCOUNT_INFO: Optional[Dict[str, Any]] = None
 
