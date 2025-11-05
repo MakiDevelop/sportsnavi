@@ -3567,3 +3567,6 @@
 {"timestamp": "2025-11-04T10:17:24.991093", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.services.crawler.base", "message": "dosports crawler cleanup completed"}
 {"timestamp": "2025-11-04T10:17:24.991258", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "爬取到 0 篇文章"}
 {"timestamp": "2025-11-04T10:17:24.991387", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.tests.test_crawler", "message": "完成！新增: 0 篇，更新: 0 篇"}
+{"timestamp": "2025-11-04T13:04:59.781871", "level": "\u001b[33mWARNING \u001b[0m", "logger": "apscheduler.executors.default", "message": "Run time of job \"crawl_today (trigger: cron[hour='20', minute='0'], next run at: 2025-11-05 20:00:00 CST)\" was missed by 1:04:59.780875"}
+{"timestamp": "2025-11-05T03:56:45.108537", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "排程器已關閉"}
+{"timestamp": "2025-11-05T03:56:45.109134", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Scheduler has been shut down"}

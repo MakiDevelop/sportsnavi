@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Request, Depends, HTTPException, BackgroundTasks, APIRouter, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
-from app.core.database import engine, Base, get_db
+from app.core.database import engine, Base, get_db, SessionLocal
 from app.api.v1.api import api_router
 from app.models.article import Article
 import logging
@@ -26,6 +26,7 @@ import shutil
 import io
 import csv
 from app.services.crawler.npb_crawler import NPBCrawler
+from app.services.export.google_sheets_exporter import export_articles_to_sheet
 
 # 定義所有可用的爬蟲來源（32 個）
 ALL_SOURCES = [
@@ -136,6 +137,22 @@ async def crawl_today():
     except Exception as e:
         logger.error(f"排程爬蟲任務失敗: {str(e)}")
 
+
+def export_articles_job():
+    """匯出資料到 Google Sheets"""
+    if not settings.GOOGLE_SHEET_ID or not settings.GOOGLE_EXPORT_COLUMNS:
+        logger.info("Google Sheets 匯出略過：相關設定未完成")
+        return
+
+    session = SessionLocal()
+    try:
+        exported_count = export_articles_to_sheet(session)
+        logger.info(f"Google Sheets 匯出完成，共 {exported_count} 筆資料")
+    except Exception as e:
+        logger.exception(f"Google Sheets 匯出失敗: {str(e)}")
+    finally:
+        session.close()
+
 # 設定排程任務
 def setup_scheduler():
     try:
@@ -168,6 +185,14 @@ def setup_scheduler():
             crawl_today,
             CronTrigger(hour=20, minute=0, timezone=timezone('Asia/Taipei')),
             id='crawl_8pm',
+            replace_existing=True
+        )
+
+        # 每天 23:59 執行匯出 (台灣時間)
+        scheduler.add_job(
+            export_articles_job,
+            CronTrigger(hour=23, minute=59, timezone=timezone('Asia/Taipei')),
+            id='export_articles_daily',
             replace_existing=True
         )
         

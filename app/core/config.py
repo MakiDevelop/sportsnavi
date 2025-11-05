@@ -1,5 +1,6 @@
 import os
-from typing import Optional, Dict, Any, List
+from typing import Optional, Dict, Any, List, Union
+import json
 from pydantic_settings import BaseSettings
 from pydantic import validator
 
@@ -175,6 +176,13 @@ class Settings(BaseSettings):
     # 日誌設定
     LOG_LEVEL: str = "INFO"
 
+    # Google Sheets 匯出設定
+    GOOGLE_SHEET_ID: Optional[str] = None
+    GOOGLE_SHEET_RANGE: str = "Source!A1"
+    GOOGLE_EXPORT_COLUMNS: str = "category,title,description,content,image_url,image_url_2"
+    GOOGLE_SERVICE_ACCOUNT_FILE: Optional[str] = None
+    GOOGLE_SERVICE_ACCOUNT_INFO: Optional[Dict[str, Any]] = None
+
     @validator("DATABASE_URL", pre=True)
     def assemble_db_connection(cls, v: Optional[str], values: Dict[str, Any]) -> str:
         if isinstance(v, str):
@@ -194,6 +202,17 @@ class Settings(BaseSettings):
         if len(v) < 32:
             raise ValueError("SECRET_KEY must be at least 32 characters long")
         return v
+
+    @validator("GOOGLE_SERVICE_ACCOUNT_INFO", pre=True)
+    def parse_service_account_info(cls, v: Optional[Union[str, Dict[str, Any]]]) -> Optional[Dict[str, Any]]:
+        if not v:
+            return None
+        if isinstance(v, dict):
+            return v
+        try:
+            return json.loads(v)
+        except json.JSONDecodeError:
+            raise ValueError("GOOGLE_SERVICE_ACCOUNT_INFO must be valid JSON when provided as a string")
 
     class Config:
         case_sensitive = True

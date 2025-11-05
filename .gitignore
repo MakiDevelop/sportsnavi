@@ -1,0 +1,7 @@
+# Secrets and credentials
+app/secrets/
+app/secrets/*.json
+
+# Python cache
+__pycache__/
+*.pyc
