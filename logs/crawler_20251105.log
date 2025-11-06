@@ -2762,3 +2762,8 @@
 {"timestamp": "2025-11-05T14:16:52.753269", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_12pm: 下次執行時間 2025-11-06 12:00:00+08:00"}
 {"timestamp": "2025-11-05T14:16:52.753341", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_4pm: 下次執行時間 2025-11-06 16:00:00+08:00"}
 {"timestamp": "2025-11-05T14:16:52.753419", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "- crawl_8pm: 下次執行時間 2025-11-06 20:00:00+08:00"}
+{"timestamp": "2025-11-05T15:59:00.015201", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.executors.default", "message": "Running job \"export_articles_job (trigger: cron[hour='23', minute='59'], next run at: 2025-11-05 23:59:00 CST)\" (scheduled at 2025-11-05 23:59:00+08:00)"}
+{"timestamp": "2025-11-05T15:59:03.731980", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "Google Sheets 匯出完成，共 398 筆資料"}
+{"timestamp": "2025-11-05T15:59:03.734009", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.executors.default", "message": "Job \"export_articles_job (trigger: cron[hour='23', minute='59'], next run at: 2025-11-06 23:59:00 CST)\" executed successfully"}
+{"timestamp": "2025-11-06T07:37:13.934230", "level": "\u001b[32mINFO    \u001b[0m", "logger": "app.main", "message": "排程器已關閉"}
+{"timestamp": "2025-11-06T07:37:13.934947", "level": "\u001b[32mINFO    \u001b[0m", "logger": "apscheduler.scheduler", "message": "Scheduler has been shut down"}

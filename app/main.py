@@ -71,8 +71,9 @@ app.include_router(api_router, prefix=settings.API_V1_STR)
 scheduler = AsyncIOScheduler(
     timezone=timezone('Asia/Taipei'),
     job_defaults={
-        "misfire_grace_time": 4 * 60 * 60,  # 4 小時內補跑
-        "coalesce": True
+        "misfire_grace_time": 24 * 60 * 60,  # 24 小時內補跑
+        "coalesce": True,
+        "max_instances": 1,
     }
 )
 
@@ -191,6 +192,14 @@ def setup_scheduler():
             crawl_today,
             CronTrigger(hour=20, minute=0, timezone=timezone('Asia/Taipei')),
             id='crawl_8pm',
+            replace_existing=True
+        )
+
+        # 每天 23:00 執行 (台灣時間)
+        scheduler.add_job(
+            crawl_today,
+            CronTrigger(hour=23, minute=0, timezone=timezone('Asia/Taipei')),
+            id='crawl_11pm',
             replace_existing=True
         )
 
